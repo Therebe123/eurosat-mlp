@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Dataset and large model artifacts
+EuroSAT_RGB/
+*.npz
+
+# Temporary verification outputs
+outputs_test/
+outputs_smoke/
+outputs_search_smoke/
+
+# Keep report figures and CSV metrics, skip bulky prediction dumps.
+outputs/test_predictions.json
+outputs/search_run_*/
