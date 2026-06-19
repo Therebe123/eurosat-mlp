@@ -6,13 +6,15 @@ This repository implements a three-layer neural network classifier from scratch 
 
 ## Environment
 
-Use the existing conda environment:
+Create a Python environment and install the required packages:
 
 ```powershell
-conda run -n llm python --version
+conda create -n eurosat-mlp python=3.10 -y
+conda activate eurosat-mlp
+pip install numpy Pillow matplotlib
 ```
 
-Expected Python dependencies are already installed in `llm`:
+Required Python packages:
 
 - `numpy`
 - `Pillow`
