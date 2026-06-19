@@ -104,8 +104,9 @@ Visualization writes:
 
 ## Report and Weights
 
-- Report: `report.md`
 - Final validation accuracy: `0.5081`
 - Final test accuracy: `0.5156`
-- GitHub repository name: `eurosat-mlp-from-scratch`
-- Model weights: replace with your Google Drive or cloud storage URL
+- GitHub repository: <https://github.com/Therebe123/eurosat-mlp>
+- Model weights: <https://drive.google.com/file/d/1VuDTOUvUjob4U2cKUk6uWAT-6IMhckJv/view?usp=drive_link>
+
+The experiment report is submitted separately and is intentionally not tracked in this repository.

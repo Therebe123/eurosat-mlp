@@ -12,6 +12,8 @@ env/
 # Dataset and large model artifacts
 EuroSAT_RGB/
 *.npz
+hw1.pdf
+report.md
 
 # Temporary verification outputs
 outputs_test/
